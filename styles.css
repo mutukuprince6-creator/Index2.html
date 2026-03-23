@@ -1,0 +1,29 @@
+h2{
+    color:red;
+}
+p{
+    color:grey;
+}
+button{
+    background-color: black;
+    color: white;
+}
+header{
+    text-align: center;
+    background-color: lightgrey;
+    padding: 20px; 
+}
+nav{
+    background-color: bisque;
+    padding: 10px;
+    margin: 10px;
+}
+nav a{
+    color: black;
+    text-decoration: none; 
+}
+section{
+    border:3px solid gray;
+    margin: 10px;
+    padding: 15px;
+}

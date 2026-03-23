@@ -1,0 +1,22 @@
+header{
+    padding: 0px;
+    background-color: burlywood;
+}
+.My-Projects p{
+    background-color:red;
+     font-style: oblique;
+   
+}
+h2{
+    color: blue;
+}
+ 
+img{
+    padding: 10px;
+    background-color:chocolate;
+}
+h1{
+    font-size:30px;
+    text-align: center;
+    
+}

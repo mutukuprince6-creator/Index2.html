@@ -3,17 +3,23 @@ header{
     background-color: burlywood;
 }
 .My-Projects p{
-    background-color:red;
-     font-style: oblique;
+    background-color:burlywood;
+     font-style:normal;
+     font-size: 20px;
    
 }
 h2{
-    color: blue;
+    color: black;
+    padding: 10px;
+    background-color:burlywood;
+    text-align: center;
+    margin:px;
 }
  
 img{
     padding: 10px;
     background-color:chocolate;
+    margin: 10px;
 }
 h1{
     font-size:30px;

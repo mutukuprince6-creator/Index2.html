@@ -9,7 +9,7 @@
      margin: 10px;
      display: flex;
      flex-direction:column;
-   justify-content: space-around;
+    justify-content: space-around; 
 }
 
 body{
@@ -22,10 +22,12 @@ li{
 .glow{
     font-style:normal;
     font-size: 20px;
-    margin: 10px;
+    margin: 1px;
+    
 }
-.description{
-
+.description{margin: 1px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 } 
 .project div{
     width: px;

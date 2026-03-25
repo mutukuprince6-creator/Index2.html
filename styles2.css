@@ -1,28 +1,33 @@
-header{
-    padding: 0px;
+ header{
+    padding: 20px;
     background-color: burlywood;
+
 }
-.My-Projects p{
-    background-color:burlywood;
+.project{
      font-style:normal;
      font-size: 20px;
-   
+     margin: 10px;
+     display: flex;
+     flex-direction:column;
+   justify-content: space-around;
 }
-h2{
-    color: black;
-    padding: 10px;
-    background-color:burlywood;
-    text-align: center;
-    margin:px;
-}
- 
-img{
-    padding: 10px;
-    background-color:chocolate;
+
+body{
+    background-color: rgb(220, 205, 181);
     margin: 10px;
 }
-h1{
-    font-size:30px;
-    text-align: center;
-    
+li{
+    margin: 19px;
+}
+.glow{
+    font-style:normal;
+    font-size: 20px;
+    margin: 10px;
+}
+.description{
+
+} 
+.project div{
+    width: px;
+    border: 2px solid slategray;
 }
